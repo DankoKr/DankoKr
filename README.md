@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer
 ------------------
 
-I am a software student with keen passion for programming. I have been developing Web applications for the past 2 years and now I am exploring the Android Mobile development.
+I am a software student with keen passion for programming. I have been developing Web applications for the past 2.5 years and now I am exploring the AI development.
 
 *   🌍  I'm based in Eindhoven, The Netherlands
 *   🖥️  See my portfolio at [dankokr.github.io/webCV/](http://dankokr.github.io/webCV/)
 *   ✉️  You can contact me at [dankralski@gmail.com](mailto:dankralski@gmail.com)
-*   🚀  I'm currently working on [a workout tracker "PACE"](http://github.com/DankoKr/pace)
-*   🧠  I'm learning Mobile development and Data Structures
+*   🚀  I'm currently working on doing my internship at [Genzai](https://www.genzai.nl/)
+*   🧠  I'm learning AI development and Data Structures
 *   🤝  I'm open to collaborating on Open source projects
 *   ⚡  I love going to the gym
 
