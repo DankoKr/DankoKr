@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danko Kralski
 =====================================================================================================================================
 
-Software developer
+Junior Software Engineer
 ------------------
 
 I am a software student with keen passion for programming. I have been developing Web applications for the past 2.5 years and now I am exploring the AI development.
