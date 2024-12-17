@@ -7,7 +7,7 @@ Software developer
 I am a software student with keen passion for programming. I have been developing Web applications for the past 2.5 years and now I am exploring the AI development.
 
 *   🌍  I'm based in Eindhoven, The Netherlands
-*   🖥️  See my portfolio at [dankokr.github.io/webCV/](http://dankokr.github.io/webCV/)
+*   🖥️  See my portfolio at [danko-portfolio.space](https://www.danko-portfolio.space)
 *   ✉️  You can contact me at [dankralski@gmail.com](mailto:dankralski@gmail.com)
 *   🚀  I'm currently working on doing my internship at [Genzai](https://www.genzai.nl/)
 *   🧠  I'm learning AI development and Data Structures
