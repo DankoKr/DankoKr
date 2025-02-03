@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Engineer
 ------------------
 
-I am a software student with keen passion for programming. I have been developing Web applications for the past 2.5 years and now I am exploring the AI development.
+I am a junior software engineer with keen passion for programming. I have been developing Web applications for the past 2.5 years and now I am exploring the AI development.
 
 *   🌍  I'm based in Sofia, Bulgaria
 *   🖥️  See my portfolio at [danko-portfolio.space](https://www.danko-portfolio.space)
 *   ✉️  You can contact me at [dankralski@gmail.com](mailto:dankralski@gmail.com)
-*   🚀  I'm currently working on [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_google-ux-design_google_ftcof_professional-certificates_arte_march_24_dr_geo-multi-set1_pmax_gads_lg-all&campaignid=21107415017&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gad_source=1&gclid=Cj0KCQiA4fi7BhC5ARIsAEV1YiboFMPbgdjrCnK4isP_7s9kKuXRyMJUMIgVzjxWBr67NFEbLVqFYEMaAtptEALw_wcB)
 *   🧠  I'm learning AI development and UI/UX
 *   🤝  I'm open to collaborating on Open source projects
 *   ⚡  I love going to the gym
